@@ -29,4 +29,11 @@ public class PimPage {
 		System.out.println("Search employee");
 	}
 	
+
+	public void deleteEmployee()
+	{
+		System.out.println("delete employee");
+	}
+	
+	
 }
