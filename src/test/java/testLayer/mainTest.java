@@ -23,6 +23,8 @@ public class mainTest {
 		pim.clickOnAddEmployee();
 		
 		pim.createEmployee();
+		
+		pim.addMoreEmployeeDetails();
 	}
 
 }
