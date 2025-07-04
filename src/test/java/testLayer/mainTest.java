@@ -1,16 +1,20 @@
 package testLayer;
 
+import pages.HomePage;
 import pages.LoginPage;
 
 public class mainTest {
 
 	public static void main(String[] args) {
 
-		LoginPage login =new LoginPage();
-		
+		LoginPage login = new LoginPage();
+
 		login.loginFunctionality("Admin", "admin123");
-		
-		
+
+		HomePage homePage = new HomePage();
+
+		homePage.validateLogo();
+
 	}
 
 }
