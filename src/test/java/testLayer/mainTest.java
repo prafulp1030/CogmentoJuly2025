@@ -21,6 +21,8 @@ public class mainTest {
 		pim.clickOnPimLink();
 		
 		pim.clickOnAddEmployee();
+		
+		pim.createEmployee();
 	}
 
 }

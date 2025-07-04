@@ -13,4 +13,11 @@ public class PimPage {
 		System.out.println("Clicked on Add Employee Button");
 	}
 	
+	
+	public void createEmployee()
+	{
+		System.out.println("Employee is Created....");
+	}
+	
+	
 }
