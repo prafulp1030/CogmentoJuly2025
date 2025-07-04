@@ -19,5 +19,9 @@ public class PimPage {
 		System.out.println("Employee is Created....");
 	}
 	
+	public void addMoreEmployeeDetails()
+	{
+		System.out.println("Add Employee More Details");
+	}
 	
 }
