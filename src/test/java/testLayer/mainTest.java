@@ -25,6 +25,8 @@ public class mainTest {
 		pim.createEmployee();
 		
 		pim.addMoreEmployeeDetails();
+		
+		pim.searchEmployee();
 	}
 
 }
