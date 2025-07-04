@@ -19,6 +19,8 @@ public class mainTest {
 		PimPage pim = new PimPage();
 
 		pim.clickOnPimLink();
+		
+		pim.clickOnAddEmployee();
 	}
 
 }

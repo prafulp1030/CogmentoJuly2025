@@ -8,5 +8,9 @@ public class PimPage {
 		System.out.println("Clicked on PIM Link");
 	}
 	
+	public void clickOnAddEmployee()
+	{
+		System.out.println("Clicked on Add Employee Button");
+	}
 	
 }
