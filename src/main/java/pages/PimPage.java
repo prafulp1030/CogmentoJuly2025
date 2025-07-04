@@ -24,4 +24,9 @@ public class PimPage {
 		System.out.println("Add Employee More Details");
 	}
 	
+	public void searchEmployee()
+	{
+		System.out.println("Search employee");
+	}
+	
 }
